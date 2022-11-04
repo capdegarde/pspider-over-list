@@ -1,5 +1,5 @@
 # What does it do:
-- Nothing serious, by default param spider doesn't have a file feature and you would have to supply your gathered subdomains one by one manually. So this 10 line code would love overyou subdomain list with ParamSpider.
+- Nothing serious, by default param spider doesn't have a file feature and you would have to supply your gathered subdomains one by one manually. So this 10 line code would loop over your subdomains list with ParamSpider.
 
 # Get it to work:
 - Make sure ParamSpider is installed on your home dir (~/)
