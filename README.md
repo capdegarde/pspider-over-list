@@ -4,6 +4,6 @@
 # Get it to work:
 - Make sure ParamSpider is installed on your home dir (~/)
 - Give pspider-overlist.py execution perms `chmod +x pspider-overlist.py`
-- If you have multiple python installation make sure to update the Shebang in pspider.overlist.py to !/usr/bin/python3
+- If you have multiple python installations make sure to update the Shebang in pspider.overlist.py to !/usr/bin/python3
 - Run it `./pspider-overlist.py <subdomains-file>`
 
